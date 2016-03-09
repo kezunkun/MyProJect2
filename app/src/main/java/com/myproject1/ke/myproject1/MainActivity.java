@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //冲突2
 
         //分支2
+        //bug修复
 
     }
 }
